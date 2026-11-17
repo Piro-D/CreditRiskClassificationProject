@@ -1,1 +1,5 @@
 .venv
+
+# Python imports and validation runs
+__pycache__/
+*.py[cod]
